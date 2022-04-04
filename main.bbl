@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{roller2010eratosthenes}
+D.~W. Roller, et~al., Eratosthenes, ``Geography", Princeton University Press,
+  2010.
+
+\bibitem{zubov2008physical}
+V.~Zubov, Physical views of francesco-maria grimaldi (1618-1663), Questions of
+  history of natural science and technology 4 (2008) 3--34.
+
+\bibitem{riccioliastronomiae}
+G.~B. Riccioli, Astronomi{\ae} reformat{\ae}, some very old print, very long
+  ago.
+
+\bibitem{clotfelter1987cavendish}
+B.~E. Clotfelter, The cavendish experiment as cavendish knew it, American
+  Journal of Physics 55~(3) (1987) 210--213.
+
+\end{thebibliography}

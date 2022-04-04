@@ -1,10 +1,11 @@
 \documentclass[preprint,12pt]{elsarticle}
-\renewcommand*{\today}{March 29, 1686}
-\usepackage{amssymb}
-\usepackage{amsthm}
-\usepackage{amsmath}
-\usepackage[symbol*]{footmisc}
-\usepackage[T1]{fontenc}
+\renewcommand*{\today}{March 29, 1686} % isso substitui a data de hoje para a escolhida
+
+\usepackage{amssymb,amsmath,amsthm} %ferramentas matemáticas
+\usepackage{hyperref} %links e referencias clicáveis
+\hypersetup{pdfauthor=author} %para evitar alguns "warnings"
+            
+\usepackage[T1]{fontenc} %para enconding de letras com acentuação
 % \usepackage{lineno}
 
 \journal{Philosophi\ae\ Naturalis Principia Mathematica}
@@ -50,7 +51,7 @@ This is our article on the newly discovered universal gravitation law, which is 
 \end{abstract}
 
 \begin{graphicalabstract}
-\includegraphics[width=\textwidth]{GA.pdf}
+\includegraphics[width=\textwidth]{GA.pdf} %elsarticle já tem o pacote graphicx embutido
 \end{graphicalabstract}
 
 \begin{highlights}
@@ -166,21 +167,20 @@ which is close enough to the universal gravitational constant in the SI.
 
 \section{Conclusion}
 
-So we concluded that gravity exists, it's real, and it has the properties described in this article in Sections \ref{s:introduction} and \ref{s:derivation}. There is also some more info on this in Appendix \ref{s:appendix}.
+So we concluded that gravity exists, it's real, and it has the properties described in this article in Sections \ref{s:introduction} and \ref{s:derivation}. There is also some more info on this in \ref{s:appendix}.
 
 Congratulations, now nothing is floating around randomly anymore, as I've invented gravity. Haha! I know, it didn't change anything...
 
 \noindent
 ...or did it?
 
- \bibliographystyle{elsarticle-num} 
- \bibliography{refs}
+ \bibliographystyle{elsarticle-num} %o elsarticle utiliza o pacote bibtex em vez do biblatex -- os comandos são \bibliographystyle e \bibliography para adicionar o .bib
+ \bibliography{refs.bib}
 
 \newpage
 \appendix
 \section{One simple Appendix}\label{s:appendix}
 
 There is actually no more info here: it was just a prank, bro.
-
 
 \end{document}
