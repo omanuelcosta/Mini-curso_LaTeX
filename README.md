@@ -7,7 +7,7 @@
 
 Este é o repositório do Mini-curso de _LaTeX_, aqui você encontrará:
 
-- o arquivo fonte de um artigo _fake_, e
+- o arquivo fonte de um artigo _fake_, produzida na classe _elsarticle_, e
 - o arquivo fonte de uma apresentação, produzida na classe _beamer_
 
 Para acessar o arquivo fonte de cada um desses (e um readme contendo informações gerais), acesse as _branches_ deste mesmo _repository_.
