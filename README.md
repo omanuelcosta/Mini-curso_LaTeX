@@ -9,7 +9,7 @@
 
 Estes são os arquivos da apresentação feita no Mini-curso de LaTeX. 
 Lembrando que a produção desta apresentação foi feita com recursos voltadas para usuários mais avançados, como animações, alteração de fontes _in-situ_
-e outros recursos avançados.
+e outros recursos avançados. É recomendado pelo menos a versão 2021 do Acrobat Reader para visualização das animações.
 
 ### Pacotes utilizados
 Os pacotes utilizados na produção são:
