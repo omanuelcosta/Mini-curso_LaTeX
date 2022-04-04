@@ -1,7 +1,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7bMBdlD9U-qJD8q2tTgKVw?label=youtube&style=social)](https://www.youtube.com/channel/UC7bMBdlD9U-qJD8q2tTgKVw)  [![GitHub followers](https://img.shields.io/github/followers/omanuelcosta?style=social)](https://github.com/omanuelcosta/)   
 <a href=https://github.com/omanuelcosta/Mini-curso_LaTeX>
   
- <a href=https://github.com/omanuelcosta/Mini-curso_LaTeX/archive/refs/heads/apresenta%C3%A7%C3%A3o.zip><img src="https://img.shields.io/github/downloads/omanuelcosta/Mini-curso_LaTeX/presentation/total"></a>
+ <a href=https://github.com/omanuelcosta/Mini-curso_LaTeX/archive/refs/heads/apresenta%C3%A7%C3%A3o.zip><img src="https://img.shields.io/github/downloads/omanuelcosta/Mini-curso_LaTeX/presentation/total?label=Download apresentação"></a>
 
 #  Apresentação do Mini-curso de _LaTeX_
 
