@@ -29,4 +29,5 @@ Os comandos utilizados para a compilação deste documento são (comando -- argu
   - biber %DOCFILE%
 - pdflatex(2x)
 
-### Qualquer dúvida, envie-me um email: <a href="mailto:omanuelcosta@protonmail.com?subject=Mini-curso de LaTeX"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+### Qualquer dúvida, envie-me um email: 
+ <a href="mailto:omanuelcosta@protonmail.com?subject=Mini-curso de LaTeX"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
