@@ -1,0 +1,47 @@
+\documentclass[12pt, oneside, a4paper]{elsarticle}
+
+\begin{document}
+\begin{frontmatter}
+
+\title{This is a specimen title\tnoteref{t1,t2}}
+
+\tnotetext[t1]{This document is the results of the research
+project funded by the National Science Foundation.}
+
+\tnotetext[t2]{The second title footnote which is a longer
+text matter to fill through the whole text width and
+overflow into another line in the footnotes area of the
+first page.}
+
+\author[1]{Jos Migchielsen\corref{cor1}%
+\fnref{fn1}}
+\ead{J.Migchielsen@elsevier.com}
+\author[2]{CV Radhakrishnan\fnref{fn2}}
+\ead{cvr@sayahna.org}
+\author[3]{CV Rajagopal\fnref{fn1,fn3}}
+\ead[url]{www.stmdocs.in}
+
+\cortext[cor1]{Corresponding author}
+\fntext[fn1]{This is the first author footnote.}
+\fntext[fn2]{Another author footnote, this is a very long
+footnote and it should be a really long footnote. But this
+footnote is not yet sufficiently long enough to make two
+lines of footnote text.}
+\fntext[fn3]{Yet another author footnote.}
+\address[1]{Elsevier B.V., Radarweg 29, 1043 NX Amsterdam,
+The Netherlands}
+\address[2]{Sayahna Foundations, JWRA 34, Jagathy,
+Trivandrum 695014, India}
+\address[3]{STM Document Engineering Pvt Ltd., Mepukada,
+Malayinkil, Trivandrum 695571, India}
+
+\begin{abstract}
+	This is a specimen abstract talking about something
+\end{abstract}
+\begin{keyword}
+	specimen \sep title \sep \LaTeX
+\end{keyword}
+\end{frontmatter}
+
+
+\end{document}

@@ -1,0 +1,44 @@
+\usetheme{Berkeley} % theme for slides
+\usefonttheme{serif} 
+\definecolor{c1}{RGB}{255,255,0} % some yellow
+\definecolor{c2}{RGB}{1,33,105} % some blue
+\setbeamercolor{palette primary}{fg=white, bg=c2} % upper part
+\setbeamercolor{palette secondary}{fg=white, bg=c2} % left part (background)
+\setbeamercolor{sidebar left}{fg=white, bg=c2} % left part with links
+\setbeamercolor{section number projected}{bg=c2} % color of section numbers and others 
+\setbeamercolor{item projected}{bg=c2}
+\setbeamercolor{itemize item}{fg=c2}
+\setbeamercolor{author in sidebar}{fg=white}
+\setlength\parindent{0pt}
+
+\logo{\includegraphics[width=1.3cm,height=1.3cm,keepaspectratio]{build/logo}}
+
+%%%%%%%Logo lower left
+\addtobeamertemplate{headline}{}{
+\begin{textblock*}{100mm}(2mm, 6.6cm)
+\includegraphics[height=1.2cm,width=1.2cm,keepaspectratio]{build/usp} % logo of my university
+\end{textblock*}}
+
+%%%%%%%Logo upper mid
+%\addtobeamertemplate{headline}{}{
+%\begin{textblock*}{100mm}(12cm, -1.32cm)
+%\includegraphics[height=1.5cm,width=1.5cm,keepaspectratio]{figures/lfslogo} % logo of my university
+%\end{textblock*}}
+
+%%%%%%%Logo upper right
+\addtobeamertemplate{headline}{}{
+\begin{textblock*}{100mm}(13cm, -1.0cm)
+\includegraphics[height=1.8cm,width=1.8cm,keepaspectratio]{build/pmtpolilogo} % logo of my university
+\end{textblock*}}
+
+% \usefonttheme{professionalfonts} % changes fonts
+% \setbeamerfont{normal text}{size*={9}}
+
+\setbeamerfont{section number projected}{ % section numbers
+  family=\rmfamily,
+  series=\bfseries,
+  size=\footnotesize
+  }
+
+% \usenavigationsymbolstemplate{}% deafult controls off 
+% \setbeamertemplate{footline}[frame number] % slide number at the bottom
