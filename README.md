@@ -25,7 +25,7 @@ Os comandos utilizados para a compilação deste documento são (comando -- argu
   - biber %DOCFILE%
 - pdflatex(2x)
 
-# Download:
+### Download:
  <a href=https://github.com/omanuelcosta/Mini-curso_LaTeX/archive/refs/heads/apresenta%C3%A7%C3%A3o.zip><img src="https://img.shields.io/badge/download%20.tex%20build-6%20mb-green"></a>
 
 ### Qualquer dúvida, envie-me um email: 
