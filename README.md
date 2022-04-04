@@ -3,7 +3,7 @@
 
 #  Mini-curso de _LaTeX_
 
-## Arquivos fonte (.tex) e da build (figuras, _.bib_, etc) do artigo _fake_ e da apresentação
+## Arquivos fonte (_.tex_) e da build (figuras, _.bib_, etc) do artigo _fake_ e da apresentação
 
 Este é o repositório do Mini-curso de _LaTeX_, aqui você encontrará:
 
