@@ -51,7 +51,7 @@ This is our article on the newly discovered universal gravitation law, which is 
 \end{abstract}
 
 \begin{graphicalabstract}
-\includegraphics[width=\textwidth]{GA.pdf}
+\includegraphics[width=\textwidth]{GA.pdf} %elsarticle já tem o pacote graphicx embutido
 \end{graphicalabstract}
 
 \begin{highlights}
@@ -167,15 +167,15 @@ which is close enough to the universal gravitational constant in the SI.
 
 \section{Conclusion}
 
-So we concluded that gravity exists, it's real, and it has the properties described in this article in Sections \ref{s:introduction} and \ref{s:derivation}. There is also some more info on this in Appendix \ref{s:appendix}.
+So we concluded that gravity exists, it's real, and it has the properties described in this article in Sections \ref{s:introduction} and \ref{s:derivation}. There is also some more info on this in \ref{s:appendix}.
 
 Congratulations, now nothing is floating around randomly anymore, as I've invented gravity. Haha! I know, it didn't change anything...
 
 \noindent
 ...or did it?
 
- \bibliographystyle{elsarticle-num} 
- \bibliography{refs}
+ \bibliographystyle{elsarticle-num} %o elsarticle utiliza o pacote bibtex em vez do biblatex -- os comandos são \bibliographystyle e \bibliography para adicionar o .bib
+ \bibliography{refs.bib}
 
 \newpage
 \appendix
