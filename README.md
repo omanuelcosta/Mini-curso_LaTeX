@@ -1,5 +1,4 @@
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7bMBdlD9U-qJD8q2tTgKVw?label=youtube&style=social)](https://www.youtube.com/channel/UC7bMBdlD9U-qJD8q2tTgKVw)  [![GitHub followers](https://img.shields.io/github/followers/omanuelcosta?style=social)](https://github.com/omanuelcosta/)   
-<a href=https://github.com/omanuelcosta/Mini-curso_LaTeX></a>
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7bMBdlD9U-qJD8q2tTgKVw?label=youtube&style=social)](https://www.youtube.com/channel/UC7bMBdlD9U-qJD8q2tTgKVw)  [![GitHub followers](https://img.shields.io/github/followers/omanuelcosta?style=social)](https://github.com/omanuelcosta/) <a href=https://github.com/omanuelcosta/Mini-curso_LaTeX></a> [![GitHub all releases](https://img.shields.io/github/downloads/omanuelcosta/Mini-curso_LaTeX/total)](https://github.com/omanuelcosta/Mini-curso_LaTeX)
 
 
 #  Mini-curso de _LaTeX_
