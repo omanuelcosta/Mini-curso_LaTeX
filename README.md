@@ -26,7 +26,7 @@ Os comandos utilizados para a compilação deste documento são (comando -- argu
 - pdflatex(2x)
 
 ### Download:
- <a href=https://github.com/omanuelcosta/Mini-curso_LaTeX/archive/refs/heads/apresenta%C3%A7%C3%A3o.zip><img src="https://img.shields.io/badge/download%20.tex%20build-6%20mb-green"></a>
+ <a href=https://github.com/omanuelcosta/Mini-curso_LaTeX/archive/refs/heads/artigo.zip><img src="https://img.shields.io/badge/download%20.tex%20build-6%20mb-green"></a>
 
 ### Qualquer dúvida, envie-me um email: 
 <a href="mailto:omanuelcosta@protonmail.com?subject=Mini-curso de LaTeX"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
