@@ -15,7 +15,7 @@ Para acessar o arquivo fonte de cada um desses (e um readme contendo informaçõ
 Alguns links úteis:
 - Link do artigo no Overleaf: <a href="https://www.overleaf.com/read/bvcypwwnxjwx"><img src="https://img.shields.io/badge/-overleaf-green"/></a>
 
-- Link de download da apresentação: <a href="https://github.com/omanuelcosta/Mini-curso_LaTeX/raw/main/main.pdf"><img src="https://img.shields.io/github/repo-size/omanuelcosta/Mini-curso_LaTeX?label=pdf"></a> [^1]
+- Link de download da apresentação: <a href="https://github.com/omanuelcosta/Mini-curso_LaTeX/raw/main/main.pdf"><img src="https://img.shields.io/badge/download%20.pdf-20%20mb-green"></a> [^1]
   
 - Link de download do arquivo fonte do artigo: <a href=https://github.com/omanuelcosta/Mini-curso_LaTeX/archive/refs/heads/artigo.zip><img src="https://img.shields.io/github/downloads/omanuelcosta/Mini-curso_LaTeX/artigo/total"></a>
   
