@@ -13,7 +13,7 @@ Este é o repositório do Mini-curso de _LaTeX_, aqui você encontrará:
 Para acessar o arquivo fonte de cada um desses (e um readme contendo informações gerais), acesse as _branches_ deste mesmo _repository_.
   
 Alguns links úteis:
-- Link de download da apresentação: <a href="https://github.com/omanuelcosta/Mini-curso_LaTeX/raw/main/main.pdf">link</a>
+- Link de download da apresentação: <a href="https://github.com/omanuelcosta/Mini-curso_LaTeX/raw/main/main.pdf"><img src="https://img.shields.io/github/repo-size/omanuelcosta/Mini-curso_LaTeX?label=pdf"></a>. [^1]
 
 - Link do artigo no Overleaf: <a href="https://www.overleaf.com/read/bvcypwwnxjwx"><img src="https://a.fsdn.com/allura/s/overleaf/icon?1597619030?&w=48"/></a>
   
@@ -24,3 +24,6 @@ Alguns links úteis:
 ### Qualquer dúvida, envie-me um email: 
   
   <a href="mailto:omanuelcosta@protonmail.com?subject=Mini-curso de LaTeX"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  
+
+[^1]: é recomendado o leitor Adobe Acrobat Reader versão, maior ou igual a 2021
